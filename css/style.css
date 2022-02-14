@@ -1,0 +1,19 @@
+@import url(./custom.css);
+@import url(./root.css);
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.button{
+    background-color: salmon;
+    color: white;
+    font-weight: 400;
+}
+.slider,p{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.text{
+    color: rgb(153, 151, 151);
+}
