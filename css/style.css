@@ -1,6 +1,6 @@
 @import url(./custom.css);
 @import url(./root.css);
-body{
+body,h1,h2,h4,p{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
@@ -16,4 +16,13 @@ body{
 }
 .text{
     color: rgb(153, 151, 151);
+}
+.bg{
+    background: url(../assets/slider-bg.svg);
+}
+.text{
+    font-size: 30px;
+}
+.text-color{
+    color: rgb(150, 149, 149);
 }
